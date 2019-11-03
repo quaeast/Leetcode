@@ -19,10 +19,16 @@ class Pair extends Object{
     }
 }
 public class Test {
+    public static void swap(Integer a, Integer b){
+        int t = a;
+        a = b;
+        b = a;
+    }
     public static void main(String[] args){
-        Pair a = new Pair(1, 2);
-        Pair b = new Pair(1, 2);
-        System.out.println(a.toString());
-        System.out.println(b.toString());
+        int a=10;
+        int b=11;
+        swap(a, b);
+        System.out.println(a);
+        System.out.println(b);
     }
 }
