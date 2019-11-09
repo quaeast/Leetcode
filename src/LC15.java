@@ -26,7 +26,7 @@ class Solution15 {
     }
 }
 
-public class Lc15 {
+public class LC15 {
     public static void main(String[] args) {
         List<Integer> a = Arrays.asList(1, 2, 3);
         List<Integer> b = Arrays.asList(1, 2, 3);

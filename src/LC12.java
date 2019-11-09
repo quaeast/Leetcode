@@ -8,5 +8,5 @@ class Solution12 {
     }
 }
 
-public class Lc12 {
+public class LC12 {
 }
