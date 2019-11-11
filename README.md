@@ -21,7 +21,9 @@
 |[35. Search Insert Position](https://leetcode.com/problems/search-insert-position/)||[LC35.py](./src/LC35.py)|
 |[36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)|[LC36.java](./src/LC36.java)|
 |[38. Count and Say](https://leetcode.com/problems/count-and-say/)|[LC38.java](./src/LC38.java)|
+|[39. Combination Sum](https://leetcode.com/problems/combination-sum/)|[LC39.java](./src/LC39.java)|
+|[40. Combination Sum II](https://leetcode.com/problems/combination-sum-ii/)|[LC40.java](./src/LC40.java)||
 |[88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[LC88.java](./src/LC88.java)|
 |[189. Rotate Array](https://leetcode.com/problems/rotate-array/)|[LC189.java](./src/LC189.java)|
 |[641. Design Circular Deque](https://leetcode.com/problems/design-circular-deque/)|[LC641.java](./src/LC641.java)|
-|[39. Combination Sum](https://leetcode.com/problems/combination-sum/)|[LC39.java](./src/LC39.java)|
+|
