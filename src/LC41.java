@@ -22,5 +22,4 @@ public class LC41 {
         nums.put(1, 2);
         System.out.println(nums.get(2));
     }
-
 }
