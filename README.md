@@ -23,9 +23,10 @@
 |[38. Count and Say](https://leetcode.com/problems/count-and-say/)|[LC38.java](./src/LC38.java)|
 |[39. Combination Sum](https://leetcode.com/problems/combination-sum/)|[LC39.java](./src/LC39.java)|
 |[40. Combination Sum II](https://leetcode.com/problems/combination-sum-ii/)|[LC40.java](./src/LC40.java)||
-
-|[42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)|[LC42.java](./src/LC42.java)|
 |[41. First Missing Positive](https://leetcode.com/problems/first-missing-positive/)|[LC41.java](./src/LC41.java)||
+|[42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)|[LC42.java](./src/LC42.java)|
+|[43. Multiply Strings](https://leetcode.com/problems/multiply-strings/)|[LC43.java](./src/LC43.java)||
+|[46. Permutations](https://leetcode.com/problems/permutations/)||[LC46.py](./src/LC46.py)|
 |[88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[LC88.java](./src/LC88.java)|
 |[189. Rotate Array](https://leetcode.com/problems/rotate-array/)|[LC189.java](./src/LC189.java)|
 |[641. Design Circular Deque](https://leetcode.com/problems/design-circular-deque/)|[LC641.java](./src/LC641.java)|
