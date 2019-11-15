@@ -1,3 +1,6 @@
+import java.math.BigInteger;
+import java.util.Arrays;
+
 class Solution43 {
     public String add(String nums1, String nums2) {
         int[] res = new int[nums1.length() + nums2.length()];
@@ -32,10 +35,17 @@ class Solution43 {
     }
 }
 
+class Solution43_2{
+    public String multiply(String num1, String num2){
+        BigInteger n1 = new BigInteger(num1);
+        BigInteger n2 = new BigInteger(num2);
+        return n1.multiply(n2).toString();
+    }
+}
 
 public class LC43 {
     public static void main(String[] args) {
-        Solution43 s = new Solution43();
-
+        int[] a = {1, 2, 3, 4};
+        System.out.println();
     }
 }
