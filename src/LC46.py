@@ -1,7 +1,17 @@
+import itertools
 from typing import List
 
 
 class Solution(object):
+    def permute(self, nums):
+        if len(nums) == 0:
+            return [[]]
+        return [[n] + p
+                for i, n in enumerate(nums)
+                for p in self.permute(nums[:i] + nums[i + 1:])]
+
+
+class Solution4(object):
     def permute(self, nums):
         return [[n] + p
                 for i, n in enumerate(nums)
@@ -27,6 +37,11 @@ class Solution2:
         return self.res
 
 
+# permuteUnique
+
+class Solution3:
+    def permute(self, n: List[int]) -> List[List[int]]:
+        return itertools.permutations(n)
 
 
 if __name__ == '__main__':
