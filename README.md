@@ -28,6 +28,7 @@
 |[43. Multiply Strings](https://leetcode.com/problems/multiply-strings/)|[LC43.java](./src/LC43.java)||
 |[46. Permutations](https://leetcode.com/problems/permutations/)||[LC46.py](./src/LC46.py)|
 |[48. Rotate Image](https://leetcode.com/problems/rotate-image/)|[LC48.java](./src/LC48.java)|
+|[49. Group Anagrams](https://leetcode.com/problems/group-anagrams/submissions/)|[LC49.java](./src/LC49.java)||
 |[88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[LC88.java](./src/LC88.java)|
 |[189. Rotate Array](https://leetcode.com/problems/rotate-array/)|[LC189.java](./src/LC189.java)|
 |[641. Design Circular Deque](https://leetcode.com/problems/design-circular-deque/)|[LC641.java](./src/LC641.java)|
