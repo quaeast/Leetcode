@@ -9,6 +9,7 @@
 |[11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/)|[LC11.java](./src/LC11.java)|
 |[12. Integer to Roman](https://leetcode.com/problems/integer-to-roman/)|[LC12.java](./src/LC12.java)|
 |[15. 3Sum](https://leetcode.com/problems/3sum/)|[LC15.java](./src/LC15.java)|
+|[18. 4Sum](https://leetcode.com/problems/4sum/)|[LC18.kava](./src/LC18.java)|
 |[19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|[LC19.java](./src/LC19.java)|
 |[22. Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)| |[LC22.py](./src/LC22.py)|
 |[23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)|[LC23.java](./src/LC23.java)|
@@ -27,6 +28,7 @@
 |[42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)|[LC42.java](./src/LC42.java)|
 |[43. Multiply Strings](https://leetcode.com/problems/multiply-strings/)|[LC43.java](./src/LC43.java)||
 |[46. Permutations](https://leetcode.com/problems/permutations/)||[LC46.py](./src/LC46.py)|
+|[47. Permutations II](https://leetcode.com/problems/permutations-ii)||[LC47.py](./src/LC47.py)|
 |[48. Rotate Image](https://leetcode.com/problems/rotate-image/)|[LC48.java](./src/LC48.java)|
 |[49. Group Anagrams](https://leetcode.com/problems/group-anagrams/submissions/)|[LC49.java](./src/LC49.java)||
 |[88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[LC88.java](./src/LC88.java)|
