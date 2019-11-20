@@ -9,6 +9,7 @@
 |[11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/)|[LC11.java](./src/LC11.java)|
 |[12. Integer to Roman](https://leetcode.com/problems/integer-to-roman/)|[LC12.java](./src/LC12.java)|
 |[15. 3Sum](https://leetcode.com/problems/3sum/)|[LC15.java](./src/LC15.java)|
+|[16. 3Sum Closest](https://leetcode.com/problems/3sum-closest/)|[LC16.java](./src/LC16.java)|
 |[18. 4Sum](https://leetcode.com/problems/4sum/)|[LC18.kava](./src/LC18.java)|
 |[19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|[LC19.java](./src/LC19.java)|
 |[22. Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)| |[LC22.py](./src/LC22.py)|
@@ -31,6 +32,7 @@
 |[47. Permutations II](https://leetcode.com/problems/permutations-ii)||[LC47.py](./src/LC47.py)|
 |[48. Rotate Image](https://leetcode.com/problems/rotate-image/)|[LC48.java](./src/LC48.java)|
 |[49. Group Anagrams](https://leetcode.com/problems/group-anagrams/submissions/)|[LC49.java](./src/LC49.java)||
+|[53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[LC53.java](./src/LC53.java)|
 |[88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[LC88.java](./src/LC88.java)|
 |[189. Rotate Array](https://leetcode.com/problems/rotate-array/)|[LC189.java](./src/LC189.java)|
 |[641. Design Circular Deque](https://leetcode.com/problems/design-circular-deque/)|[LC641.java](./src/LC641.java)|
