@@ -17,6 +17,7 @@
 |[23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)|[LC23.java](./src/LC23.java)|
 |[24. Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)|[LC24.java](./src/LC24.java)|
 |[25. Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)|[LC25.java](./src/LC25.java)|
+|[30. Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/)|[LC30.java](./src/LC30.java)||
 |[31. Next Permutation](https://leetcode.com/problems/next-permutation/)|[LC31.java](./src/LC31.java)|
 |[32. Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/)|[LC32.java](./src/LC32.java)|
 |[33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)|[LC33.java](./src/LC33.java)|
