@@ -22,10 +22,10 @@ class Solution30 {
         }
         int wordLen = words[0].length();
         int sumLen = words.length*wordLen;
-        ArrayList templateBuffer = new ArrayList(words.length);
-        templateBuffer.addAll(Arrays.asList(words));
+        ArrayList<String> templateBuffer = new ArrayList<>(Arrays.asList(words));
+//        templateBuffer.addAll(Arrays.asList(words));
         for (int i = 0; i < s.length() + 1 - words.length * wordLen; i++) {
-            ArrayList tempBuffer = new ArrayList<>(templateBuffer);
+            ArrayList<String> tempBuffer = new ArrayList<>(templateBuffer);
             boolean flag = true;
             for (int j=i; j<i+sumLen; j+=wordLen){
                 String subString = s.substring(j, j+wordLen);
