@@ -38,6 +38,7 @@
 |[55. Jump Game](https://leetcode.com/problems/jump-game/)|[LC55.java](./src/LC55.java)|
 |[58. Length of Last Word](https://leetcode.com/problems/length-of-last-word/)|[LC58.java](./src/LC58.java)|
 |[69. Sqrt(x)](https://leetcode.com/problems/sqrtx/)|[LC69.java](./src/LC69.java)|
+|[83. Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)|[LC83.java](./src/LC88.java)|
 |[88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[LC88.java](./src/LC88.java)|
 |[189. Rotate Array](https://leetcode.com/problems/rotate-array/)|[LC189.java](./src/LC189.java)|
 |[641. Design Circular Deque](https://leetcode.com/problems/design-circular-deque/)|[LC641.java](./src/LC641.java)|
