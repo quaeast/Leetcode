@@ -33,7 +33,7 @@ class Solution70_1 {
 
 public class LC70 {
     public static void main(String[] args){
-        Solution70 s = new Solution70();
+        Solution70_1 s = new Solution70_1();
         System.out.println(s.climbStairs(99));
     }
 }
