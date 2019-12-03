@@ -6,12 +6,14 @@
 |:----|:----|:---|
 |[1. Two Sum](https://leetcode.com/problems/two-sum/)|[LC1.java](./src/LC1.java)|
 |[6. ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/)|[LC6.java](./src/LC6.java)|
+|[7. Reverse Integer](https://leetcode.com/problems/reverse-integer/)|[LC6.java](./src/LC6.java)|
+|[9. Palindrome Number](https://leetcode.com/problems/palindrome-number/)|[LC9.java](./src/LC9.java)|
 |[10. Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/)|[LC10.java](./src/LC10.java)|
 |[11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/)|[LC11.java](./src/LC11.java)|
 |[12. Integer to Roman](https://leetcode.com/problems/integer-to-roman/)|[LC12.java](./src/LC12.java)|
 |[15. 3Sum](https://leetcode.com/problems/3sum/)|[LC15.java](./src/LC15.java)|
 |[16. 3Sum Closest](https://leetcode.com/problems/3sum-closest/)|[LC16.java](./src/LC16.java)|
-|[18. 4Sum](https://leetcode.com/problems/4sum/)|[LC18.kava](./src/LC18.java)|
+|[18. 4Sum](https://leetcode.com/problems/4sum/)|[LC18.java](./src/LC18.java)|
 |[19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|[LC19.java](./src/LC19.java)|
 |[22. Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)| |[LC22.py](./src/LC22.py)|
 |[23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)|[LC23.java](./src/LC23.java)|
