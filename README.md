@@ -46,7 +46,9 @@
 |[70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|[LC70.java](./src/LC70.java)|
 |[83. Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)|[LC83.java](./src/LC88.java)|
 |[88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[LC88.java](./src/LC88.java)|
+|[118. Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)|[LC118.java](./src/LC118.java)||
 |[141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|[LC141.java](./src/LC141.java)|
+|[169. Majority Element](https://leetcode.com/problems/majority-element/)|[LC169.java](./src/LC169.java)|
 |[189. Rotate Array](https://leetcode.com/problems/rotate-array/)|[LC189.java](./src/LC189.java)|
 |[641. Design Circular Deque](https://leetcode.com/problems/design-circular-deque/)|[LC641.java](./src/LC641.java)|
 
