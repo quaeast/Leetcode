@@ -1,9 +1,24 @@
 import java.util.Arrays;
+import java.util.HashSet;
 import java.util.List;
+import java.util.Set;
+
 
 class Solution139 {
     public boolean wordBreak(String s, List<String> wordDict) {
-        return true;
+        return wordBreak(s, new HashSet<>(wordDict), 0);
+    }
+
+    public boolean wordBreak(String s, Set<String> wordDict, int beg) {
+        if(beg==s.length()){
+            return true;
+        }
+        for (int i = beg + 1; i <= s.length(); i++) {
+            if (wordDict.contains(s.substring(beg, i)) && wordBreak(s, wordDict, i)) {
+                return true;
+            }
+        }
+        return false;
     }
 }
 
@@ -20,10 +35,5 @@ class Solution139 {
 
 public class LC139 {
     public static void main(String[] args) {
-        Solution139 solution139 = new Solution139();
-        String s = "applepenapple";
-        String[] bu = {"apple", "pen"};
-        solution139.wordBreak(s, Arrays.asList(bu));
-        System.out.println(s.indexOf("apple", 5));
     }
 }

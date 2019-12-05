@@ -47,6 +47,7 @@
 |[83. Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)|[LC83.java](./src/LC88.java)|
 |[88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[LC88.java](./src/LC88.java)|
 |[118. Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)|[LC118.java](./src/LC118.java)||
+|[139. Word Break](https://leetcode.com/problems/word-break/)|[LC139.java](./src/LC139.java)|
 |[141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|[LC141.java](./src/LC141.java)|
 |[169. Majority Element](https://leetcode.com/problems/majority-element/)|[LC169.java](./src/LC169.java)|
 |[189. Rotate Array](https://leetcode.com/problems/rotate-array/)|[LC189.java](./src/LC189.java)|
