@@ -8,7 +8,6 @@ class Solution139 {
     public boolean wordBreak(String s, List<String> wordDict) {
         return wordBreak(s, new HashSet<>(wordDict), 0);
     }
-
     public boolean wordBreak(String s, Set<String> wordDict, int beg) {
         if(beg==s.length()){
             return true;
