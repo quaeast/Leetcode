@@ -47,6 +47,16 @@ class Solution100 {
     }
 }
 
+class Solution100_1 {
+    public boolean isSameTree(TreeNode p, TreeNode q) {
+        if(p.val!=q.val){
+            return false;
+        }
+
+        return true;
+    }
+}
+
 public class LC100 {
     public static void main(String[] args){
         ArrayList<Integer> res = new ArrayList<>();
