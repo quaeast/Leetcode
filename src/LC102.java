@@ -10,7 +10,7 @@ import java.util.List;
  * TreeNode(int x) { val = x; }
  * }
  */
-class Solution {
+class Solution102 {
     private void levelOrder0(TreeNode root, int level, List<List<Integer>> res) {
         if (root == null) {
             return;
