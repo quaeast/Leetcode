@@ -45,6 +45,7 @@
 |[61. Rotate List](https://leetcode.com/problems/rotate-list/)|[LC61.java](./src/LC61.java)|
 |[69. Sqrt(x)](https://leetcode.com/problems/sqrtx/)|[LC69.java](./src/LC69.java)|
 |[70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|[LC70.java](./src/LC70.java)|
+|[73. Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)|[LC73.java](./src/LC73.java)|
 |[83. Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)|[LC83.java](./src/LC88.java)|
 |[88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[LC88.java](./src/LC88.java)|
 |[100. Same Tree](https://leetcode.com/problems/same-tree/)|[LC100.java](./src/LC100.java)|
