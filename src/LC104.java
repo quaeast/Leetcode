@@ -7,21 +7,22 @@
  *     TreeNode(int x) { val = x; }
  * }
  */
+
+//level begin from 1
 class Solution104 {
-    private int max = 0;
-    private void maxDepth0(TreeNode root, int res){
+    private void maxDepth0(TreeNode root, int level, int[] res){
         if(root==null){
-            max = Math.max(max, res-1);
+            res[0] = Math.max(res[0], level);
             return;
         }
-        maxDepth0(root.left, res+1);
-        maxDepth0(root.right, res+1);
+        maxDepth0(root.left, level+1, res);
+        maxDepth0(root.right, level+1, res);
     }
 
     public int maxDepth(TreeNode root) {
-        max = 0;
-        maxDepth0(root, 0);
-        return max;
+        int[] res = {0};
+        maxDepth0(root, 0, res);
+        return res[0];
     }
 }
 
