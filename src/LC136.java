@@ -18,6 +18,7 @@ class Solution136 {
     }
 }
 
+
 public class LC136 {
     public static void main(String[] args) {
         Integer[] array = {1, 2, 3};
