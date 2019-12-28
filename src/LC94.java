@@ -30,14 +30,18 @@ class Solution94 {
 
 class Solution94_1 {
     public List<Integer> inorderTraversal(TreeNode root) {
-        Stack<Integer> stack = new Stack<>();
+        Stack<TreeNode> stack = new Stack<>();
         List<Integer> res = new ArrayList<>();
         TreeNode temp = root;
-//        while (true){
-//            if(temp!=null){
-//                stack.push(root.left.val);
-//            }
-//        }
+        while (!(temp==null&&stack.isEmpty())){
+            while (temp!=null){
+                stack.push(temp);
+                temp = temp.left;
+            }
+            temp = stack.pop();
+            res.add(temp.val);
+            temp = temp.right;
+        }
         return res;
     }
 }

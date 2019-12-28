@@ -45,6 +45,7 @@
 |[61. Rotate List](https://leetcode.com/problems/rotate-list/)|[LC61.java](./src/LC61.java)|
 |[69. Sqrt(x)](https://leetcode.com/problems/sqrtx/)|[LC69.java](./src/LC69.java)|
 |[70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|[LC70.java](./src/LC70.java)|
+|[71. Simplify Path](https://leetcode.com/problems/simplify-path/)|[LC71.java](./src/LC71.java)|
 |[73. Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)|[LC73.java](./src/LC73.java)|
 |[74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)|[LC74.java](./src/LC74.java)|
 |[83. Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)|[LC83.java](./src/LC88.java)|
@@ -55,7 +56,7 @@
 |[102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)|[LC102.java](./src/LC102.java)|
 |[103. Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)|[LC103.java](./src/LC103.java)|
 |[104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|[LC104.java](./src/LC104.java)|
-|[107. Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/)|[LC107.java](./src/LC107.java))|
+|[107. Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/)|[LC107.java](./src/LC107.java)|
 |[118. Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)|[LC118.java](./src/LC118.java)||
 |[136. Single Number](https://leetcode.com/problems/single-number/)|[LC136.java](./src/LC136.java)|
 |[139. Word Break](https://leetcode.com/problems/word-break/)|[LC139.java](./src/LC139.java)|
