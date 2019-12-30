@@ -48,6 +48,7 @@
 |[71. Simplify Path](https://leetcode.com/problems/simplify-path/)|[LC71.java](./src/LC71.java)|
 |[73. Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)|[LC73.java](./src/LC73.java)|
 |[74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)|[LC74.java](./src/LC74.java)|
+|[75. Sort Colors](https://leetcode.com/problems/sort-colors/)|[LC75.java](./src/LC75.java)|
 |[83. Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)|[LC83.java](./src/LC88.java)|
 |[88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[LC88.java](./src/LC88.java)|
 |[94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|[LC94.java](./src/LC94.java)|
