@@ -3,7 +3,7 @@
 ## Read the code
 
 |problems|java|python|kotlin|
-|:----|:----|:---|
+|:----|:----|:---|:---|
 |[1. Two Sum](https://leetcode.com/problems/two-sum/)|[LC1.java](./src/LC1.java)|
 |[6. ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/)|[LC6.java](./src/LC6.java)|
 |[7. Reverse Integer](https://leetcode.com/problems/reverse-integer/)|[LC6.java](./src/LC6.java)|
