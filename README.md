@@ -59,6 +59,7 @@
 |[104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|[LC104.java](./src/LC104.java)|
 |[107. Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/)|[LC107.java](./src/LC107.java)|
 |[111. Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)|[LC111.java](./src/LC111.java)|||
+|[112. Path Sum](https://leetcode.com/problems/path-sum/submissions/)|[LC112.java](./src/LC112.java)|
 |[118. Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)|[LC118.java](./src/LC118.java)||
 |[136. Single Number](https://leetcode.com/problems/single-number/)|[LC136.java](./src/LC136.java)|
 |[139. Word Break](https://leetcode.com/problems/word-break/)|[LC139.java](./src/LC139.java)|
