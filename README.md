@@ -65,6 +65,7 @@
 |[139. Word Break](https://leetcode.com/problems/word-break/)|[LC139.java](./src/LC139.java)|
 |[141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|[LC141.java](./src/LC141.java)|
 |[155. Min Stack](https://leetcode.com/problems/min-stack/)| | |[LC155.kt](./src/LC155.kt)|
+|[160. Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)|[LC160.java](./src/LC160.java)|
 |[169. Majority Element](https://leetcode.com/problems/majority-element/)|[LC169.java](./src/LC169.java)|
 |[189. Rotate Array](https://leetcode.com/problems/rotate-array/)|[LC189.java](./src/LC189.java)|
 |[235. Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/rotate-array/)|[LC235.java](./src/LC189.java)|
