@@ -42,6 +42,7 @@
 |[57. Insert Interval](https://leetcode.com/problems/insert-interval/)|[LC57.java](./src/LC57.java)|
 |[58. Length of Last Word](https://leetcode.com/problems/length-of-last-word/)|[LC58.java](./src/LC58.java)|
 |[59. Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/)|[LC59.java](./src/LC59.java)|
+|[60. Permutation Sequence](https://leetcode.com/problems/permutation-sequence/)|[LC60.java](./src/LC60.java)|
 |[61. Rotate List](https://leetcode.com/problems/rotate-list/)|[LC61.java](./src/LC61.java)|
 |[69. Sqrt(x)](https://leetcode.com/problems/sqrtx/)|[LC69.java](./src/LC69.java)|
 |[70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|[LC70.java](./src/LC70.java)|
