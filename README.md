@@ -64,6 +64,7 @@
 |[112. Path Sum](https://leetcode.com/problems/path-sum/submissions/)|[LC112.java](./src/LC112.java)|
 |[118. Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)|[LC118.java](./src/LC118.java)||
 |[119. Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)|[LC119.java](./src/LC119.java)|
+|[121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[LC121.java](./src/LC121.java)
 |[136. Single Number](https://leetcode.com/problems/single-number/)|[LC136.java](./src/LC136.java)|
 |[139. Word Break](https://leetcode.com/problems/word-break/)|[LC139.java](./src/LC139.java)|
 |[141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|[LC141.java](./src/LC141.java)|
@@ -73,5 +74,6 @@
 |[189. Rotate Array](https://leetcode.com/problems/rotate-array/)|[LC189.java](./src/LC189.java)|
 |[235. Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/rotate-array/)|[LC235.java](./src/LC189.java)|
 |[236. Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)|[LC236.java](./src/LC236.java)|
+|[258. Add Digits](https://leetcode.com/problems/add-digits/)|[LC258.java](./src/LC258.java)|
 |[641. Design Circular Deque](https://leetcode.com/problems/design-circular-deque/)|[LC641.java](./src/LC641.java)|
 
