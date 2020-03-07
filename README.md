@@ -65,6 +65,7 @@
 |[118. Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)|[LC118.java](./src/LC118.java)||
 |[119. Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)|[LC119.java](./src/LC119.java)|
 |[121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[LC121.java](./src/LC121.java)
+|[125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)|[LC.125.java](./src/LC125.java)|
 |[136. Single Number](https://leetcode.com/problems/single-number/)|[LC136.java](./src/LC136.java)|
 |[139. Word Break](https://leetcode.com/problems/word-break/)|[LC139.java](./src/LC139.java)|
 |[141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|[LC141.java](./src/LC141.java)|
