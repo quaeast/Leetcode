@@ -71,7 +71,11 @@
 |[141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|[LC141.java](./src/LC141.java)|
 |[155. Min Stack](https://leetcode.com/problems/min-stack/)| | |[LC155.kt](./src/LC155.kt)|
 |[160. Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)|[LC160.java](./src/LC160.java)|
+|[167. Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)|[LC167.java](./src/LC167.java)|
+|[168. Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/)|[LC168.java](./src/LC168.java)|
 |[169. Majority Element](https://leetcode.com/problems/majority-element/)|[LC169.java](./src/LC169.java)|
+|[171. Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)|[LC171.java](./src/LC171.java)|
+|[172. Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/)|[LC172,java](./src/LC172.java)
 |[189. Rotate Array](https://leetcode.com/problems/rotate-array/)|[LC189.java](./src/LC189.java)|
 |[235. Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/rotate-array/)|[LC235.java](./src/LC189.java)|
 |[236. Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)|[LC236.java](./src/LC236.java)|
