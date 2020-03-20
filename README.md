@@ -82,6 +82,7 @@
 |[189. Rotate Array](https://leetcode.com/problems/rotate-array/)|[LC189.java](./src/LC189.java)|
 |[235. Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/rotate-array/)|[LC235.java](./src/LC189.java)|
 |[236. Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)|[LC236.java](./src/LC236.java)|
+|[257. Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)|[LC257.java](./src/LC257.java)|
 |[258. Add Digits](https://leetcode.com/problems/add-digits/)|[LC258.java](./src/LC258.java)|
 |[641. Design Circular Deque](https://leetcode.com/problems/design-circular-deque/)|[LC641.java](./src/LC641.java)|
 
