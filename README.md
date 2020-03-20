@@ -62,6 +62,7 @@
 |[108. Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)|[LC108.java](./src/LC102.java)|
 |[111. Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)|[LC111.java](./src/LC111.java)|||
 |[112. Path Sum](https://leetcode.com/problems/path-sum/submissions/)|[LC112.java](./src/LC112.java)|
+|[114. Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)|[LC114.java](./src/LC114.java)|
 |[118. Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)|[LC118.java](./src/LC118.java)||
 |[119. Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)|[LC119.java](./src/LC119.java)|
 |[121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[LC121.java](./src/LC121.java)
@@ -69,6 +70,8 @@
 |[136. Single Number](https://leetcode.com/problems/single-number/)|[LC136.java](./src/LC136.java)|
 |[139. Word Break](https://leetcode.com/problems/word-break/)|[LC139.java](./src/LC139.java)|
 |[141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|[LC141.java](./src/LC141.java)|
+|[144. Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)|[LC144.java](./src/LC144.java)|
+|[145. Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)|[LC145.java](./src/LC145.java)|
 |[155. Min Stack](https://leetcode.com/problems/min-stack/)| | |[LC155.kt](./src/LC155.kt)|
 |[160. Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)|[LC160.java](./src/LC160.java)|
 |[167. Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)|[LC167.java](./src/LC167.java)|
