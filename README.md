@@ -53,6 +53,7 @@
 |[83. Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)|[LC83.java](./src/LC88.java)|
 |[88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[LC88.java](./src/LC88.java)|
 |[94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|[LC94.java](./src/LC94.java)|
+|[98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)|[LC98.java](./src/LC98.java)|
 |[100. Same Tree](https://leetcode.com/problems/same-tree/)|[LC100.java](./src/LC100.java)|
 |[101. Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)|[LC101.java](./src/LC101.java)|
 |[102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)|[LC102.java](./src/LC102.java)|
