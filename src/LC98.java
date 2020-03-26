@@ -44,6 +44,4 @@ class Solution98 {
 
 
 
-public class LC98 {
-
-}
+public class LC98 {}
