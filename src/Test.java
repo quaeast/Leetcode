@@ -15,6 +15,10 @@ public class Test{
         return res;
     }
     public static void main(String[] args){
-        System.out.println(fac(8));
+        String s0 = "fang";
+        String s1 = "fang";
+        String s2 = s0;
+        String s3 = new String("fang");
+        System.out.println();
     }
 }
