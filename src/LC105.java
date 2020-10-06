@@ -1,22 +1,21 @@
-/**
- * Definition for a binary tree node.
- * public class TreeNode {
- *     int val;
- *     TreeNode left;
- *     TreeNode right;
- *     TreeNode(int x) { val = x; }
- * }
- */
-//class Solution105 {
-//    private void buildTree(TreeNode root, int[] preorder, int[] inorder){
-//
-//    }
-//
-//    public TreeNode buildTree(int[] preorder, int[] inorder) {
-//        TreeNode root = new TreeNode(preorder[0]);
-//
-//    }
-//}
-//
-//public class LC105 {
-//}
+class Solution {
+    public TreeNode buildTree(int[] preorder, int[] inorder) {
+        return null;
+    }
+
+    private TreeNode buildTree(int[] preorder, int[] inorder, int pre_begin, int in_begin, int in_end) {
+        if (pre_begin == preorder.length - 1) {
+            return null;
+        }
+        TreeNode head = new TreeNode(preorder[pre_begin]);
+        int in_position = in_begin;
+        for (; in_begin <= in_end; in_begin++) {
+            if (preorder[pre_begin] == inorder[in_begin]) {
+                break;
+            }
+        }
+        head.left = buildTree(preorder, inorder, pre_begin + 1, ++pre_begin, in_position - 1);
+        head.right = buildTree(preorder, inorder, pre_begin + 1, in_position + 1, in_end);
+        return head;
+    }
+}

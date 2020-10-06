@@ -1,4 +1,4 @@
-class Solution {
+class Solution10 {
     public boolean isMatch(String s, String p) {
         if (p.isEmpty()) {
             return s.isEmpty();
@@ -23,8 +23,5 @@ class Solution {
 
 public class LC10 {
     public static void main(String[] args) {
-        Solution s = new Solution();
-        s.isMatch("ab",
-                ".*c");
     }
 }

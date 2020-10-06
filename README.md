@@ -27,6 +27,7 @@
 |[34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)|[LC34.java](./src/LC34.java)|
 |[35. Search Insert Position](https://leetcode.com/problems/search-insert-position/)| |[LC35.py](./src/LC35.py)|
 |[36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)|[LC36.java](./src/LC36.java)|
+|[37. Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)|[LC37.java](./src/LC37.java)|
 |[38. Count and Say](https://leetcode.com/problems/count-and-say/)|[LC38.java](./src/LC38.java)|
 |[39. Combination Sum](https://leetcode.com/problems/combination-sum/)|[LC39.java](./src/LC39.java)|
 |[40. Combination Sum II](https://leetcode.com/problems/combination-sum-ii/)|[LC40.java](./src/LC40.java)||
@@ -89,4 +90,5 @@
 |[257. Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)|[LC257.java](./src/LC257.java)|
 |[258. Add Digits](https://leetcode.com/problems/add-digits/)|[LC258.java](./src/LC258.java)|
 |[641. Design Circular Deque](https://leetcode.com/problems/design-circular-deque/)|[LC641.java](./src/LC641.java)|
+|[912. Sort an Array](https://leetcode.com/problems/sort-an-array/)|[LC912.java](./src/LC912.java)|||
 |[958. Check Completeness of a Binary Tree](https://leetcode.com/problems/check-completeness-of-a-binary-tree/)|[LC958.java](./src/LC958.java)|||
