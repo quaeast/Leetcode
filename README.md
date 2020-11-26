@@ -38,6 +38,7 @@
 |[47. Permutations II](https://leetcode.com/problems/permutations-ii)||[LC47.py](./src/LC47.py)|
 |[48. Rotate Image](https://leetcode.com/problems/rotate-image/)|[LC48.java](./src/LC48.java)|
 |[49. Group Anagrams](https://leetcode.com/problems/group-anagrams/submissions/)|[LC49.java](./src/LC49.java)||
+|[51. N-Queens](https://leetcode.com/problems/n-queens/)|[LC51.java](./src/LC51.java)|
 |[53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[LC53.java](./src/LC53.java)|
 |[55. Jump Game](https://leetcode.com/problems/jump-game/)|[LC55.java](./src/LC55.java)|
 |[56. Merge Intervals](https://leetcode.com/problems/merge-intervals/)|[LC56.java](./src/LC56.java)|
@@ -46,6 +47,7 @@
 |[59. Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/)|[LC59.java](./src/LC59.java)|
 |[60. Permutation Sequence](https://leetcode.com/problems/permutation-sequence/)|[LC60.java](./src/LC60.java)|
 |[61. Rotate List](https://leetcode.com/problems/rotate-list/)|[LC61.java](./src/LC61.java)|
+|[62. Unique Paths](https://leetcode.com/problems/unique-paths/)|[LC62.java](./src/LC62.java)|
 |[69. Sqrt(x)](https://leetcode.com/problems/sqrtx/)|[LC69.java](./src/LC69.java)|
 |[70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|[LC70.java](./src/LC70.java)|
 |[71. Simplify Path](https://leetcode.com/problems/simplify-path/)|[LC71.java](./src/LC71.java)|
