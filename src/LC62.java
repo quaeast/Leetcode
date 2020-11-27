@@ -16,6 +16,7 @@ class Solution62 {
     }
 }
 
+// dp
 class Solution62_2 {
     public int uniquePaths(int m, int n) {
         int[][] panel = new int[m][n];
@@ -39,3 +40,4 @@ public class LC62 {
 
     }
 }
+
