@@ -49,6 +49,7 @@
 |[61. Rotate List](https://leetcode.com/problems/rotate-list/)|[LC61.java](./src/LC61.java)|
 |[62. Unique Paths](https://leetcode.com/problems/unique-paths/)|[LC62.java](./src/LC62.java)|
 |[63. Unique Paths II](https://leetcode.com/problems/unique-paths-ii/)|[LC63.java](./src/LC63.java)|
+|[64. Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)|[LC64.java](./src/LC64.java)|
 |[69. Sqrt(x)](https://leetcode.com/problems/sqrtx/)|[LC69.java](./src/LC69.java)|
 |[70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|[LC70.java](./src/LC70.java)|
 |[71. Simplify Path](https://leetcode.com/problems/simplify-path/)|[LC71.java](./src/LC71.java)|
