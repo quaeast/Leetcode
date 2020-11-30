@@ -57,6 +57,7 @@
 |[74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)|[LC74.java](./src/LC74.java)|
 |[75. Sort Colors](https://leetcode.com/problems/sort-colors/)|[LC75.java](./src/LC75.java)|
 |[78. Subsets](https://leetcode.com/problems/subsets/)|[LC78.java](./src/LC78.java)|
+|[79. Word Search](https://leetcode.com/problems/word-search/)|[LC79.java](./src/LC79.java)|
 |[83. Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)|[LC83.java](./src/LC88.java)|
 |[83. Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)|[LC83.java](./src/LC88.java)|
 |[88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[LC88.java](./src/LC88.java)|
